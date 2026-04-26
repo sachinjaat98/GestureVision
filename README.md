@@ -1,28 +1,28 @@
 # GestureVision AI – Real-Time Hand Gesture Recognition System
-## 🧠 Overview
+### 🧠 Overview
 GestureVision AI is a real-time hand gesture recognition system that uses computer vision and machine learning techniques to detect and classify hand gestures from live video streams.
 
-## 🎯 Features
+### 🎯 Features
 - 🔍 Real-time hand detection
 - ✋ Gesture classification
 - 🎥 Works with webcam/live feed
 - ⚡ Fast and lightweight processing
 - 🤖 Scalable for custom gesture training
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 - Python
 - OpenCV
 - NumPy
 - TensorFlow / PyTorch
 - MediaPipe
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/sachinjaat98/GestureVision.git
 
-# Navigate to project folder
+### Navigate to project folder
 cd GestureVision
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
 python main.py
@@ -32,7 +32,7 @@ python main.py
 - The system will detect and classify gestures in real-time
 
 
-📂 Project Structure
+### Project Structure
 Hand_Gesture_Recognition/
 - │── dataset/           # Training data
 - │── models/            # Saved models
