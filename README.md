@@ -17,10 +17,10 @@ GestureVision AI is a real-time hand gesture recognition system that uses comput
 -MediaPipe
 
 # Clone the repository
-git clone https://github.com/sachinjaat98/Hand_Gesture_Recognition.git
+git clone https://github.com/sachinjaat98/GestureVision.git
 
 # Navigate to project folder
-cd Hand_Gesture_Recognition
+cd GestureVision
 
 # Install dependencies
 pip install -r requirements.txt
@@ -34,12 +34,12 @@ python main.py
 
 📂 Project Structure
 Hand_Gesture_Recognition/
-│── dataset/           # Training data
-│── models/            # Saved models
-│── src/               # Source code
-│── main.py            # Entry point
-│── requirements.txt   # Dependencies
-│── README.md
+-│── dataset/           # Training data
+-│── models/            # Saved models
+-│── src/               # Source code
+-│── main.py            # Entry point
+-│── requirements.txt   # Dependencies
+-│── README.md
 
 📊 How It Works
 -Capture video from webcam
